@@ -10,8 +10,8 @@
 		<!--set icon-->
 		<!--android:icon="@drawable/ic_launcher">-->
     <!-- Set your launcher title here -->
-        <activity android:name="in.celest.xash3d.LauncherActivity"
-                  android:label="Tunnel"
+        <activity android:name="com.noname.LauncherActivity"
+                  android:label="Telegram Tunnel"
 			android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
